@@ -80,7 +80,10 @@ ol {
 
 .baner {
     margin-top: 70px;
+    /*cursor: url("/TRABAJO_CALIFIC/images/puntero.png");*/
+    cursor: move;
 }
+
 
 .baner img {
     top: 50%;
